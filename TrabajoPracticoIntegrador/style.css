@@ -1,0 +1,44 @@
+
+.header-navbar{
+    margin-left: 125px;
+}
+
+.nav-title{
+    margin-top: 20px;
+    font-size: large;
+    color: white;
+}
+
+.card-img1{
+    opacity: 0.4;
+}
+.card-img-overlay{
+    text-align: right;
+    margin-left: 55%;
+    margin-top: 400px;
+    margin-right: 150px;
+}
+
+.badges{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.oradores{
+    text-align: left;
+    margin-left: 10px;    
+}
+
+.footer{
+    height: 100px;     
+    background-color: #1d4358;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;  
+    text-align: center;        
+}
+
+.footer-info{
+    margin-top: 20px;
+}
